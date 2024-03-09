@@ -1,0 +1,31 @@
+{
+    "name": "bitcoin-wallet-generator",
+    "version": "1.0.0",
+    "description": "bitcoin wallet generator",
+    "main": "bitcoin-wallet-generator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/danny-pham/bitcoin-wallet-generator.git"
+    },
+    "keywords": [
+      "bitcoin",
+      "wallet",
+      "generator",
+      "crypto"
+    ],
+    "author": "danny-pham",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/danny-pham/bitcoin-wallet-generator/issues"
+    },
+    "homepage": "https://github.com/danny-pham/bitcoin-wallet-generator#readme",
+    "dependencies": {
+      "bitcoinjs-lib": "^6.1.5",
+      "seed-phrase-generator": "^1.2.6"
+    },
+    "devDependencies": {}
+  }
+  
